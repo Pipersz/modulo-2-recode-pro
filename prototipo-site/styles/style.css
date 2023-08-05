@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: GetVoIP_Grotesque;
-  src: URL(fonts/GetVoIP_Grotesque.ttf) format('truetype');
+  src: URL(/fonts/GetVoIP_Grotesque.ttf) format('truetype');
 }
 
 .texto-logo {
