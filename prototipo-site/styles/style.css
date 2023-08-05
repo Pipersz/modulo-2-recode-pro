@@ -73,6 +73,7 @@
 
 .main-section-carousel-item {
   color: #fafafa;
+  max-height: 92vh;
 }
 
 .main-section-carousel-item .carousel-caption {
