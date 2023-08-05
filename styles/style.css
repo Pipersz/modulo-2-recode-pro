@@ -73,6 +73,7 @@
 
 .main-section-carousel-item {
   color: #fafafa;
+  max-height: 92vh;
 }
 
 .main-section-carousel-item .carousel-caption {
@@ -84,8 +85,8 @@
 @media screen and (max-width: 767px) {
   .main-section-carousel-item .carousel-caption {
     top: 20%;
-    left: 0;
-    width: 100%;
+    left: 15%;
+    width: 70%;
   }
 }
 
