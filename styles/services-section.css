@@ -1,0 +1,21 @@
+
+.flex-1 {
+  flex: 1;
+}
+
+.h-70 {
+  height: 70%;
+}
+
+.overflow-y-scroll {
+  overflow-y: scroll;
+}
+
+.margin-horizontal-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.full-opacity {
+  opacity: 100% !important;
+}

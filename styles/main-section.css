@@ -1,0 +1,18 @@
+
+.main-section-carousel-item {
+  height: 92vh;
+  overflow: hidden;
+  color: #fafafa;
+}
+
+.top-30 {
+  top: 30%;
+}
+
+.start-25 {
+  left: 25%;
+}
+
+.carousel-item-content {
+  z-index: 2;
+}
